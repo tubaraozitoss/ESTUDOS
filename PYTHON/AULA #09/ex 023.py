@@ -1,3 +1,5 @@
+# Crie um programa que indique as casas de um número.
+
 n1 = input('Digite um número de 0 à 9999: ')
 n1 = n1.zfill(4)
 print(f'Unidade: {n1[3]}')

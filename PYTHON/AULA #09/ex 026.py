@@ -7,5 +7,5 @@ primeiro_a = frase.find('A')
 ultimo_a = frase.rfind('A')
 
 print(f'Quantidade de letras A: {contagem}')
-print(f'Primeiro A: {primeiro_a}')
-print(f'Último A: {ultimo_a}')
+print(f'Primeiro A: {primeiro_a + 1}')
+print(f'Último A: {ultimo_a + 1}')
