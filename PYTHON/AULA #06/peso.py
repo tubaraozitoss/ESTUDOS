@@ -1,3 +1,5 @@
+# Gere um programa que calcule quantos kg o usuário deve perder para alcançar o desejado.
+
 atual = float(input('Qual o seu atual peso? '))
 desejado = float(input('Qual o peso desejado? '))
 op = atual - desejado

@@ -1,3 +1,5 @@
+# Gere um programa que auxilie o usuário a saber qual será o gasto de combustível e o valor gasto durante uma viagem.
+
 nome = input('Qual o seu nome? ')
 km = float(input('Qual a distância da viagem? '))
 kml = float(input('Qual o consumo do seu carro (km/l)? '))

@@ -1,3 +1,5 @@
+# Solicite nome, idade e curso de interesse, e monte uma frase com as informações coletadas.
+
 nome=input('Qual é seu nome? ')
 idade=input('Qual a sua idade? ')
 curso=input('Qual o seu curso de interesse? ')

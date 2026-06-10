@@ -1,3 +1,5 @@
+# Gere um programa que calcule o valor a ser pago por um aluguel de carros.
+
 vd = 80
 vkm = 0.75
 dias = int(input('Por quantos dias o carro foi alugado?: '))
