@@ -8,4 +8,4 @@ num = int(input('Tente adivinhar o número que estou pensando, de 0 a 5: '))
 if num == resposta:
     print('Parabéns! Você acertou. ')
 else:
-    print(f'Que pena, você errou. O número que eu pensei era {num}')
+    print(f'Que pena, você errou. O número que eu pensei era {resposta}')

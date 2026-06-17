@@ -6,3 +6,4 @@ if km <= 200:
     print(f'Você pagará nessa viagem o valor de R$ {km * 0.50}')
 else:
     print(f'Você pagará nessa viagem o valor de R$ {km * 0.45}')
+
