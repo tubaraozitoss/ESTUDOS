@@ -33,3 +33,5 @@ elif jogador == 'tesoura' and pc == 'papel':
     print('Você: TESOURA')
     print('PC: PAPEL')
     print('Você \033[32mganhou!\033[m')
+else:
+    print('Jogada inválida. Escolha pedra, papel ou tesoura.')

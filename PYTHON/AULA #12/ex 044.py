@@ -27,7 +27,7 @@ elif resposta == 3:
 elif resposta == 4:
     if parcelas >= 3:
         print(f'O valor final é de R$ {juros:.2f}.')
-        print(f'As parcelas ficam em {parcelas} vezes de {juros / parcelas}')
+        print(f'As parcelas ficam em {parcelas} vezes de {juros / parcelas:.2f}')
     else:
         print(f'O valor final é de R$ {valor:.2f}.')  
 else:
