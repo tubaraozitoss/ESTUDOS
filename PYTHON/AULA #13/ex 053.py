@@ -3,7 +3,7 @@
 frase = input('Digite uma frase: ').strip().lower()
 sem = frase.replace(' ', '')
 
-if frase[::-1] == frase:
-    print(f'A frase {sem.upper()} é um palíndromo.')
+if sem[::-1] == sem:
+    print(f'A frase {frase.upper()} é um palíndromo.')
 else:
-    print(f'A frase {sem.upper()} não é um palíndromo.')
+    print(f'A frase {frase.upper()} não é um palíndromo.')
